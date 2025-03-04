@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, me chamo [Kelwin Eduardo] 👨‍💻
 
-<!--
-**twkelwin/twkelwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Estou aprendendo mais sobre HTML5, CSS3, PostgreSQL, MySQL e Java! 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5 🌐
+- CSS3 🎨
+- JavaScript ⚡
+- PostgreSQL 🐘
+- MySQL 🐬
+- Java ☕
+
+## 🔧 Minhas habilidades
+
+| Tecnologia | Nível       | Conhecimento |
+|------------|-------------|--------------|
+| HTML5      | 🎓 Intermediário | 👨‍💻 Sites Responsivos |
+| CSS3       | 🎓 Intermediário | 🎨 Layouts e Animações |
+| Java       | 🎓 Intermediário | ☕ Desenvolvimento de Aplicações |
+| MySQL      | 🎓 Intermediário | 🐬 Gestão de Banco de Dados |
+
+## 📊 Estatísticas do GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twkelwin&show_icons=true&theme=radical)
+
+## 🔗 Conecte-se comigo
+Em breve..
