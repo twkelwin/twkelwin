@@ -25,3 +25,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twkelwin&show_icons=true&theme=radical)
 
 ## 🔗 Conecte-se comigo
+https://www.linkedin.com/in/kelwin-eduardo-802271349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
