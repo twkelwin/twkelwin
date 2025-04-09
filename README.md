@@ -15,14 +15,13 @@
 
 | Tecnologia | Nível       | Conhecimento |
 |------------|-------------|--------------|
-| HTML5      | 🎓 Intermediário | 👨‍💻 Sites Responsivos |
-| CSS3       | 🎓 Intermediário | 🎨 Layouts e Animações |
-| Java       | 🎓 Intermediário | ☕ Desenvolvimento de Aplicações |
-| MySQL      | 🎓 Intermediário | 🐬 Gestão de Banco de Dados |
+| HTML5      | 🎓 Basico | 👨‍💻 Sites Responsivos |
+| CSS3       | 🎓 Basico | 🎨 Layouts e Animações |
+| Java       | 🎓 Basico | ☕ Desenvolvimento de Aplicações |
+| MySQL      | 🎓 Basico | 🐬 Gestão de Banco de Dados |
 
 ## 📊 Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twkelwin&show_icons=true&theme=radical)
 
 ## 🔗 Conecte-se comigo
-Em breve..
