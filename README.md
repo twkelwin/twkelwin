@@ -15,10 +15,10 @@
 
 | Tecnologia | Nível       | Conhecimento |
 |------------|-------------|--------------|
-| HTML5      | 🎓 Basico | 👨‍💻 Sites Responsivos |
-| CSS3       | 🎓 Basico | 🎨 Layouts e Animações |
-| Java       | 🎓 Basico | ☕ Desenvolvimento de Aplicações |
-| MySQL      | 🎓 Basico | 🐬 Gestão de Banco de Dados |
+| HTML5      | 🎓 Junior | 👨‍💻 Sites Responsivos |
+| CSS3       | 🎓 Junior | 🎨 Layouts e Animações |
+| Java       | 🎓 Junior | ☕ Desenvolvimento de Aplicações |
+| MySQL      | 🎓 Junior | 🐬 Gestão de Banco de Dados |
 
 ## 📊 Estatísticas do GitHub
 
