@@ -28,6 +28,6 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-ant%C3%B4nio-da-silva-a23668334/" target="_blank">
+  <a href="https://br.linkedin.com/in/kelwin-eduardo-802271349?trk=people-guest_people_search-card" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
