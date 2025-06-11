@@ -25,4 +25,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twkelwin&show_icons=true&theme=radical)
 
 ## 🔗 Conecte-se comigo
-https://www.linkedin.com/in/kelwin-eduardo-802271349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
+<div align="center">
+  <a href="[https://www.linkedin.com/in/guilherme-ant%C3%B4nio-da-silva-a23668334/](https://www.linkedin.com/in/kelwin-eduardo-802271349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
