@@ -1,7 +1,5 @@
 # Olá, me chamo Kelwin Eduardo 👨‍💻
 
-📚 Estou aprendendo mais sobre HTML5, CSS3, PostgreSQL, MySQL e Java! 🚀
-
 ## 🛠️ Tecnologias que estou aprendendo
 
 ### Frontend
